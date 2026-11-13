@@ -1,3 +1,11 @@
-ID	SAMPLE	FASTQ	condition	tissue_type
-sample1	seq_submission_code1_sample1	/absolute_path/seq_submission_code1/	WT	Retina
-sample2	seq_submission_code2_sample2	/absolute_path/seq_submission_code2/	Knock-out	Retina
+ID	condition	tissue_type	Sample_Type	Sequence_Type	Top_Up
+Six3_D28_CtrlC	WT	Brain	Cortical Organoid	snRNA-seq	N
+Six3_D28_CtrlD	WT	Brain	Cortical Organoid	snRNA-seq	Y
+Six3_D28_209	KO	Brain	Cortical Organoid	snRNA-seq	Y
+Six3_D28_76M	KO	Brain	Cortical Organoid	snRNA-seq	Y
+Six3_D28_125_P	KO	Brain	Cortical Organoid	snRNA-seq	NA
+Six3_D28_24_P	KO	Brain	Cortical Organoid	snRNA-seq	NA
+Six3_D28_125_X	KO	Brain	Cortical Organoid	snRNA-seq	NA
+Six3_CtrlD_1	WT	Brain	Cortical Organoid	snRNA-seq	NA
+Six3_CtrlD_2	WT	Brain	Cortical Organoid	snRNA-seq	NA
+Six3_CtrlD_3	WT	Brain	Cortical Organoid	snRNA-seq	NA
